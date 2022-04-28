@@ -6,11 +6,12 @@
    This project uses MYSQL as backend and is developed in Java so it provides features such as platform independence, high performance and security. It is a web application which mainly uses SpringMVC and Hibernate frameworks. 
    
    It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides PDF of prescription. Thus, reducing need to manually write  and  sign  by doctor.
+   
+## Cloud Architecture Diagram
+
+![Cloud Architecture Diagram](https://github.com/akarsh-23/WebArch/blob/master/readme_images/System%20Diagrams/Cloud%20Architecture%20Diagram.png)
 
 ## Technologies Used-
-
-![TechStack](https://github.com/akarsh-23/WebArch/blob/master/readme_images/snapshots/techStack.png)
-
 
 ### 1. Front end Technologies:
   - HTML
@@ -117,9 +118,5 @@
 5. State Diagram
 
 ![State Diagram](https://github.com/akarsh-23/WebArch/blob/master/readme_images/System%20Diagrams/State%20Diagram.png)
-
-## Cloud Architecture Diagram
-
-![Cloud Architecture Diagram](https://github.com/akarsh-23/WebArch/blob/master/readme_images/System%20Diagrams/Cloud%20Architecture%20Diagram.png)
 
 ### Thank You !
